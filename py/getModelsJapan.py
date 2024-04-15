@@ -6,9 +6,9 @@ import UnityPy
 # conf
 option = {
     # will skip resources that already downloaded.
-    "skipExistingDownloadedResource": False,
+    "skipExistingDownloadedResource": True,
     # will skip assets that already exists.
-    "skipExistingAssets": False
+    "skipExistingAssets": True
 }
 
 ba_api = "https://yostar-serverinfo.bluearchiveyostar.com/r66_byln9y195x3fefcjqjf5.json"
